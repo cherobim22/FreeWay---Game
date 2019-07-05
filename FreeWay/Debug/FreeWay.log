@@ -1,0 +1,11 @@
+﻿  FreeWay.cpp
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(234): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(243): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(251): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(260): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(280): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(329): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(330): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(349): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\lucas\source\repos\freeway\freeway\freeway.cpp(350): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+  FreeWay.vcxproj -> C:\Users\lucas\source\repos\FreeWay\Debug\FreeWay.exe
