@@ -1,5 +1,6 @@
-# FreeWay---Game
-FreeWay game developed in C using OpenGL.
+# Freeway Game
+
+Freeway game developed in C using the OpenGL library.
 
 Using: 
   
